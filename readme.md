@@ -22,3 +22,4 @@ Also only events which we have writeups for will apear here.
 
 [2020 HackASat](https://github.com/Malikazz/YegSecCTF_2020_HackASat)
 
+[2020 HSCTF](https://github.com/Malikazz/YegSecCTF_HSCTF_2020)
